@@ -1,0 +1,3 @@
+ansible==7.6.0
+ansible-core==2.14.6
+ansible-compat==4.1.0
